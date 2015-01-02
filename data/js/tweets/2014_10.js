@@ -647,7 +647,7 @@ Grailbird.data.tweets_2014_10 =
       "screen_name" : "breyten",
       "protected" : false,
       "id_str" : "12825",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/533385685688807424\/lDocazIo_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/548915225572159488\/M1KQcyGf_normal.jpeg",
       "id" : 12825,
       "verified" : false
     }

@@ -4619,7 +4619,13 @@ Grailbird.data.tweets_2014_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "j'den",
+      "screen_name" : "_jden",
+      "indices" : [ 0, 6 ],
+      "id_str" : "2747108930",
+      "id" : 2747108930
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
