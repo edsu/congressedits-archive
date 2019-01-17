@@ -1,4 +1,4 @@
-Grailbird.data.tweets_2014_11 = 
+Grailbird.data.tweets_2016_07 = 
  [ {
   "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
   "entities" : {
@@ -6,17 +6,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 68, 90 ],
-      "url" : "http:\/\/t.co\/2Tu7GqnOzH",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=635402542&oldid=635401752",
+      "indices" : [ 104, 127 ],
+      "url" : "https:\/\/t.co\/2GFPsqHCC9",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731968399&oldid=728670073",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "537296579972313088",
-  "text" : "William Shatner Wikipedia article edited anonymously from US Senate http:\/\/t.co\/2Tu7GqnOzH",
-  "id" : 537296579972313088,
-  "created_at" : "2014-11-25 17:27:41 +0000",
+  "id_str" : "758728561675165696",
+  "text" : "List of Kappa Alpha Order members Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/2GFPsqHCC9",
+  "id" : 758728561675165696,
+  "created_at" : "2016-07-28 18:19:20 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -33,17 +33,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 107, 129 ],
-      "url" : "http:\/\/t.co\/g1y6llIxWA",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=635284848&oldid=635284693",
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/jocca0iKCl",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731942644&oldid=728995826",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "536980033588711424",
-  "text" : "United States Senate elections, 2016 Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/g1y6llIxWA",
-  "id" : 536980033588711424,
-  "created_at" : "2014-11-24 20:29:51 +0000",
+  "id_str" : "758676233571950592",
+  "text" : "Clash of the Titans (tour) Wikipedia article edited anonymously from US Senate https:\/\/t.co\/jocca0iKCl",
+  "id" : 758676233571950592,
+  "created_at" : "2016-07-28 14:51:24 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -60,17 +60,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 107, 129 ],
-      "url" : "http:\/\/t.co\/pMgPvCZaO5",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=635284693&oldid=635284147",
+      "indices" : [ 88, 111 ],
+      "url" : "https:\/\/t.co\/7AjakNrPzf",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731808820&oldid=641428302",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "536979716717436928",
-  "text" : "United States Senate elections, 2016 Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/pMgPvCZaO5",
-  "id" : 536979716717436928,
-  "created_at" : "2014-11-24 20:28:35 +0000",
+  "id_str" : "758351319937736705",
+  "text" : "Painting in Space Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/7AjakNrPzf",
+  "id" : 758351319937736705,
+  "created_at" : "2016-07-27 17:20:18 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -87,17 +87,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 107, 129 ],
-      "url" : "http:\/\/t.co\/gdiUFK0BV0",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=635284147&oldid=635284027",
+      "indices" : [ 107, 130 ],
+      "url" : "https:\/\/t.co\/qZSymu8Gyx",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731659614&oldid=729786842",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "536978597333192704",
-  "text" : "United States Senate elections, 2016 Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/gdiUFK0BV0",
-  "id" : 536978597333192704,
-  "created_at" : "2014-11-24 20:24:08 +0000",
+  "id_str" : "758010290122481666",
+  "text" : "John Ratcliffe (American politician) Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/qZSymu8Gyx",
+  "id" : 758010290122481666,
+  "created_at" : "2016-07-26 18:45:10 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -114,17 +114,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 107, 129 ],
-      "url" : "http:\/\/t.co\/XcDZTIszeI",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=635284027&oldid=635264625",
+      "indices" : [ 106, 129 ],
+      "url" : "https:\/\/t.co\/0QxagUUfSo",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731658718&oldid=731658213",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "536978373978124289",
-  "text" : "United States Senate elections, 2016 Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/XcDZTIszeI",
-  "id" : 536978373978124289,
-  "created_at" : "2014-11-24 20:23:15 +0000",
+  "id_str" : "758008849689407490",
+  "text" : "List of Major League Soccer coaches Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/0QxagUUfSo",
+  "id" : 758008849689407490,
+  "created_at" : "2016-07-26 18:39:27 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -141,17 +141,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 76, 98 ],
-      "url" : "http:\/\/t.co\/uOcHoVTNZF",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634885544&oldid=633079621",
+      "indices" : [ 106, 129 ],
+      "url" : "https:\/\/t.co\/6Qle03uGPE",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731658213&oldid=731658160",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "535911766673612801",
-  "text" : "Physical attractiveness Wikipedia article edited anonymously from US Senate http:\/\/t.co\/uOcHoVTNZF",
-  "id" : 535911766673612801,
-  "created_at" : "2014-11-21 21:44:56 +0000",
+  "id_str" : "758007981577560064",
+  "text" : "List of Major League Soccer coaches Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/6Qle03uGPE",
+  "id" : 758007981577560064,
+  "created_at" : "2016-07-26 18:36:00 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -168,17 +168,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 81, 103 ],
-      "url" : "http:\/\/t.co\/yxgR9pOM40",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634850371&oldid=634592114",
+      "indices" : [ 106, 129 ],
+      "url" : "https:\/\/t.co\/fdK66yB21d",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731658160&oldid=731657472",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "535836766516043779",
-  "text" : "Joe Garcia Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/yxgR9pOM40",
-  "id" : 535836766516043779,
-  "created_at" : "2014-11-21 16:46:55 +0000",
+  "id_str" : "758007880171790336",
+  "text" : "List of Major League Soccer coaches Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/fdK66yB21d",
+  "id" : 758007880171790336,
+  "created_at" : "2016-07-26 18:35:36 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -195,125 +195,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 108, 130 ],
-      "url" : "http:\/\/t.co\/S7r9sO7GGH",
-      "expanded_url" : "http:\/\/fr.wikipedia.org\/w\/index.php?diff=109292583&oldid=96324275&rcid=129944849",
-      "display_url" : "fr.wikipedia.org\/w\/index.php?di\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "535522633635627008",
-  "text" : "Processus de paix isra\u00E9lo-palestinien Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/S7r9sO7GGH",
-  "id" : 535522633635627008,
-  "created_at" : "2014-11-20 19:58:40 +0000",
-  "user" : {
-    "name" : "congress-edits",
-    "screen_name" : "congressedits",
-    "protected" : false,
-    "id_str" : "2612261960",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
-    "id" : 2612261960,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 87, 109 ],
-      "url" : "http:\/\/t.co\/AfFJIddHvy",
-      "expanded_url" : "http:\/\/fr.wikipedia.org\/w\/index.php?diff=109291653&oldid=109053998&rcid=129943435",
-      "display_url" : "fr.wikipedia.org\/w\/index.php?di\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "535512427996409856",
-  "text" : "Palestine (\u00C9tat) Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/AfFJIddHvy",
-  "id" : 535512427996409856,
-  "created_at" : "2014-11-20 19:18:06 +0000",
-  "user" : {
-    "name" : "congress-edits",
-    "screen_name" : "congressedits",
-    "protected" : false,
-    "id_str" : "2612261960",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
-    "id" : 2612261960,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 79, 101 ],
-      "url" : "http:\/\/t.co\/u9GZvxYIl2",
-      "expanded_url" : "http:\/\/fr.wikipedia.org\/w\/index.php?diff=109291256&oldid=108681328&rcid=129942751",
-      "display_url" : "fr.wikipedia.org\/w\/index.php?di\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "535508258824675328",
-  "text" : "Jordanie Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/u9GZvxYIl2",
-  "id" : 535508258824675328,
-  "created_at" : "2014-11-20 19:01:32 +0000",
-  "user" : {
-    "name" : "congress-edits",
-    "screen_name" : "congressedits",
-    "protected" : false,
-    "id_str" : "2612261960",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
-    "id" : 2612261960,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 88, 110 ],
-      "url" : "http:\/\/t.co\/iCe9D0im6A",
-      "expanded_url" : "http:\/\/fr.wikipedia.org\/w\/index.php?diff=109290510&oldid=89983274&rcid=129941432",
-      "display_url" : "fr.wikipedia.org\/w\/index.php?di\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "535500585727193088",
-  "text" : "Plan de paix Elon Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/iCe9D0im6A",
-  "id" : 535500585727193088,
-  "created_at" : "2014-11-20 18:31:03 +0000",
-  "user" : {
-    "name" : "congress-edits",
-    "screen_name" : "congressedits",
-    "protected" : false,
-    "id_str" : "2612261960",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
-    "id" : 2612261960,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 82, 104 ],
-      "url" : "http:\/\/t.co\/kcBvdG6OUr",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634716317&oldid=630927633",
+      "indices" : [ 106, 129 ],
+      "url" : "https:\/\/t.co\/0Ve2xkJJIR",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731657472&oldid=731656931",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "535488121010671616",
-  "text" : "Smokey Bear Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/kcBvdG6OUr",
-  "id" : 535488121010671616,
-  "created_at" : "2014-11-20 17:41:31 +0000",
+  "id_str" : "758006788600070144",
+  "text" : "List of Major League Soccer coaches Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/0Ve2xkJJIR",
+  "id" : 758006788600070144,
+  "created_at" : "2016-07-26 18:31:16 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -330,17 +222,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 86, 108 ],
-      "url" : "http:\/\/t.co\/NQEbxawglx",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634709076&oldid=633259899",
+      "indices" : [ 106, 129 ],
+      "url" : "https:\/\/t.co\/5hrj2dkm5v",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731656931&oldid=731656782",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "535472406828441600",
-  "text" : "List of Rutgers University people Wikipedia article edited anonymously from US Senate http:\/\/t.co\/NQEbxawglx",
-  "id" : 535472406828441600,
-  "created_at" : "2014-11-20 16:39:05 +0000",
+  "id_str" : "758006051220365312",
+  "text" : "List of Major League Soccer coaches Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/5hrj2dkm5v",
+  "id" : 758006051220365312,
+  "created_at" : "2016-07-26 18:28:20 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -357,17 +249,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 82, 104 ],
-      "url" : "http:\/\/t.co\/cfhIPPuwAY",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634605557&oldid=633023221",
+      "indices" : [ 106, 129 ],
+      "url" : "https:\/\/t.co\/dxCUnLyMOr",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731656782&oldid=731656524",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "535197835512528896",
-  "text" : "Demosthenian Literary Society Wikipedia article edited anonymously from US Senate http:\/\/t.co\/cfhIPPuwAY",
-  "id" : 535197835512528896,
-  "created_at" : "2014-11-19 22:28:02 +0000",
+  "id_str" : "758005827357777920",
+  "text" : "List of Major League Soccer coaches Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/dxCUnLyMOr",
+  "id" : 758005827357777920,
+  "created_at" : "2016-07-26 18:27:26 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -384,17 +276,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 85, 107 ],
-      "url" : "http:\/\/t.co\/v24oK4dfbz",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634570969&oldid=634570762",
+      "indices" : [ 106, 129 ],
+      "url" : "https:\/\/t.co\/SZ6erjwGmx",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731656524&oldid=731656409",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "535134609936506883",
-  "text" : "Julia Brownley Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/v24oK4dfbz",
-  "id" : 535134609936506883,
-  "created_at" : "2014-11-19 18:16:47 +0000",
+  "id_str" : "758005456396775425",
+  "text" : "List of Major League Soccer coaches Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/SZ6erjwGmx",
+  "id" : 758005456396775425,
+  "created_at" : "2016-07-26 18:25:58 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -411,17 +303,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 85, 107 ],
-      "url" : "http:\/\/t.co\/jh47mW4sEm",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634567833&oldid=634567264",
+      "indices" : [ 106, 129 ],
+      "url" : "https:\/\/t.co\/gzNXOcmL1y",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731656409&oldid=711113791",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "535128549750214657",
-  "text" : "Julia Brownley Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/jh47mW4sEm",
-  "id" : 535128549750214657,
-  "created_at" : "2014-11-19 17:52:43 +0000",
+  "id_str" : "758005260061409280",
+  "text" : "List of Major League Soccer coaches Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/gzNXOcmL1y",
+  "id" : 758005260061409280,
+  "created_at" : "2016-07-26 18:25:11 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -438,17 +330,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 85, 107 ],
-      "url" : "http:\/\/t.co\/QGPiKZ3lWs",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634567078&oldid=634566334",
+      "indices" : [ 85, 108 ],
+      "url" : "https:\/\/t.co\/Ovu2DHi6BE",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731511583&oldid=731508162",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "535127064891125760",
-  "text" : "Julia Brownley Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/QGPiKZ3lWs",
-  "id" : 535127064891125760,
-  "created_at" : "2014-11-19 17:46:49 +0000",
+  "id_str" : "757677876070187008",
+  "text" : "Kenny Marchant Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/Ovu2DHi6BE",
+  "id" : 757677876070187008,
+  "created_at" : "2016-07-25 20:44:17 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -465,17 +357,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 85, 107 ],
-      "url" : "http:\/\/t.co\/X2WX9LSw4v",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634566334&oldid=634566232",
+      "indices" : [ 85, 108 ],
+      "url" : "https:\/\/t.co\/3t7bjKIgYz",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731508162&oldid=731472295",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "535125665285427202",
-  "text" : "Julia Brownley Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/X2WX9LSw4v",
-  "id" : 535125665285427202,
-  "created_at" : "2014-11-19 17:41:15 +0000",
+  "id_str" : "757671263468937217",
+  "text" : "Kenny Marchant Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/3t7bjKIgYz",
+  "id" : 757671263468937217,
+  "created_at" : "2016-07-25 20:18:00 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -492,17 +384,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 85, 107 ],
-      "url" : "http:\/\/t.co\/2x3CRXKrxO",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634566232&oldid=633966188",
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/c9BNoEKC03",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731506027&oldid=730133795",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "535125436607766528",
-  "text" : "Julia Brownley Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/2x3CRXKrxO",
-  "id" : 535125436607766528,
-  "created_at" : "2014-11-19 17:40:20 +0000",
+  "id_str" : "757667288678035461",
+  "text" : "Archie Miller (basketball) Wikipedia article edited anonymously from US Senate https:\/\/t.co\/c9BNoEKC03",
+  "id" : 757667288678035461,
+  "created_at" : "2016-07-25 20:02:13 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -519,17 +411,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 111, 133 ],
-      "url" : "http:\/\/t.co\/bN9mY1Z9ee",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634566027&oldid=624870945",
+      "indices" : [ 116, 139 ],
+      "url" : "https:\/\/t.co\/bjGNkDMpP4",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731489883&oldid=694746001",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "535125059963482113",
-  "text" : "California's 26th congressional district Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/bN9mY1Z9ee",
-  "id" : 535125059963482113,
-  "created_at" : "2014-11-19 17:38:51 +0000",
+  "id_str" : "757639506010963968",
+  "text" : "List of United States Virgin Islands Senators Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/bjGNkDMpP4",
+  "id" : 757639506010963968,
+  "created_at" : "2016-07-25 18:11:49 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -546,44 +438,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 87, 109 ],
-      "url" : "http:\/\/t.co\/RPLCNOdWKD",
-      "expanded_url" : "http:\/\/ru.wikipedia.org\/w\/index.php?diff=66868272&oldid=66526088",
-      "display_url" : "ru.wikipedia.org\/w\/index.php?di\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "534840032516141057",
-  "text" : "\u041C\u0435\u043D\u0435\u043D\u0434\u0435\u0441, \u0420\u043E\u0431\u0435\u0440\u0442 Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/RPLCNOdWKD",
-  "id" : 534840032516141057,
-  "created_at" : "2014-11-18 22:46:15 +0000",
-  "user" : {
-    "name" : "congress-edits",
-    "screen_name" : "congressedits",
-    "protected" : false,
-    "id_str" : "2612261960",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
-    "id" : 2612261960,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 67, 89 ],
-      "url" : "http:\/\/t.co\/S3KWjUNb9x",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634443540&oldid=491906163",
+      "indices" : [ 85, 108 ],
+      "url" : "https:\/\/t.co\/Fy8IxJo7OH",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731472295&oldid=726744305",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "534838044470571009",
-  "text" : "Malcolm Burger Wikipedia article edited anonymously from US Senate http:\/\/t.co\/S3KWjUNb9x",
-  "id" : 534838044470571009,
-  "created_at" : "2014-11-18 22:38:21 +0000",
+  "id_str" : "757604559627878400",
+  "text" : "Kenny Marchant Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/Fy8IxJo7OH",
+  "id" : 757604559627878400,
+  "created_at" : "2016-07-25 15:52:57 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -600,17 +465,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 82, 104 ],
-      "url" : "http:\/\/t.co\/NxhI2JVKSD",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634422937&oldid=634422613",
+      "indices" : [ 86, 109 ],
+      "url" : "https:\/\/t.co\/Mgzat8dRyR",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731091255&oldid=726105363",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "534800489637240834",
-  "text" : "Bill Flores Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/NxhI2JVKSD",
-  "id" : 534800489637240834,
-  "created_at" : "2014-11-18 20:09:07 +0000",
+  "id_str" : "756612888278728706",
+  "text" : "Oxon Hill Manor Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/Mgzat8dRyR",
+  "id" : 756612888278728706,
+  "created_at" : "2016-07-22 22:12:24 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -627,17 +492,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 82, 104 ],
-      "url" : "http:\/\/t.co\/rbYaYAkxVA",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=634422613&oldid=619235916",
+      "indices" : [ 72, 95 ],
+      "url" : "https:\/\/t.co\/0IvE4DW29u",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731055776&oldid=731055705",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "534799906020790272",
-  "text" : "Bill Flores Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/rbYaYAkxVA",
-  "id" : 534799906020790272,
-  "created_at" : "2014-11-18 20:06:48 +0000",
+  "id_str" : "756536750495989760",
+  "text" : "Syracuse University Wikipedia article edited anonymously from US Senate https:\/\/t.co\/0IvE4DW29u",
+  "id" : 756536750495989760,
+  "created_at" : "2016-07-22 17:09:51 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -648,34 +513,23 @@ Grailbird.data.tweets_2014_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Governement of Canada Wikipedia edits",
-      "screen_name" : "gccaedits",
-      "indices" : [ 0, 10 ],
-      "id_str" : "2613454796",
-      "id" : 2613454796
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 57, 80 ],
-      "url" : "https:\/\/t.co\/wpbhNa4RZP",
-      "expanded_url" : "https:\/\/github.com\/edsu\/congressedits-archive",
-      "display_url" : "github.com\/edsu\/congresse\u2026"
+      "indices" : [ 72, 95 ],
+      "url" : "https:\/\/t.co\/sckvbR7dXN",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731055705&oldid=731055536",
+      "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
-  "in_reply_to_status_id_str" : "532922244557991936",
   "geo" : { },
-  "id_str" : "534098257878978560",
-  "in_reply_to_user_id" : 2613454796,
-  "text" : "@gccaedits love that idea ; I just added my archive here https:\/\/t.co\/wpbhNa4RZP",
-  "id" : 534098257878978560,
-  "in_reply_to_status_id" : 532922244557991936,
-  "created_at" : "2014-11-16 21:38:42 +0000",
-  "in_reply_to_screen_name" : "gccaedits",
-  "in_reply_to_user_id_str" : "2613454796",
+  "id_str" : "756536593188589568",
+  "text" : "Syracuse University Wikipedia article edited anonymously from US Senate https:\/\/t.co\/sckvbR7dXN",
+  "id" : 756536593188589568,
+  "created_at" : "2016-07-22 17:09:14 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -686,57 +540,131 @@ Grailbird.data.tweets_2014_11 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Governement of Canada Wikipedia edits",
-      "screen_name" : "gccaedits",
-      "indices" : [ 3, 13 ],
-      "id_str" : "2613454796",
-      "id" : 2613454796
-    } ],
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 72, 95 ],
+      "url" : "https:\/\/t.co\/huUL7r0ADD",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=731055536&oldid=728907999",
+      "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "756536253076602881",
+  "text" : "Syracuse University Wikipedia article edited anonymously from US Senate https:\/\/t.co\/huUL7r0ADD",
+  "id" : 756536253076602881,
+  "created_at" : "2016-07-22 17:07:53 +0000",
+  "user" : {
+    "name" : "congress-edits",
+    "screen_name" : "congressedits",
+    "protected" : false,
+    "id_str" : "2612261960",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
+    "id" : 2612261960,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 86, 109 ],
+      "url" : "https:\/\/t.co\/n0K9z7vhf4",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=730956179&oldid=730956119",
+      "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "756263311604416513",
+  "text" : "Stacey Plaskett Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/n0K9z7vhf4",
+  "id" : 756263311604416513,
+  "created_at" : "2016-07-21 23:03:18 +0000",
+  "user" : {
+    "name" : "congress-edits",
+    "screen_name" : "congressedits",
+    "protected" : false,
+    "id_str" : "2612261960",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
+    "id" : 2612261960,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 86, 109 ],
+      "url" : "https:\/\/t.co\/kFnRZwJcDe",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=730956119&oldid=728783113",
+      "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "756263137620455424",
+  "text" : "Stacey Plaskett Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/kFnRZwJcDe",
+  "id" : 756263137620455424,
+  "created_at" : "2016-07-21 23:02:37 +0000",
+  "user" : {
+    "name" : "congress-edits",
+    "screen_name" : "congressedits",
+    "protected" : false,
+    "id_str" : "2612261960",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
+    "id" : 2612261960,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 103, 126 ],
+      "url" : "https:\/\/t.co\/QS8RhqDllH",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=730937399&oldid=730275163",
+      "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "756227442344398853",
+  "text" : "Political party strength in Iowa Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/QS8RhqDllH",
+  "id" : 756227442344398853,
+  "created_at" : "2016-07-21 20:40:46 +0000",
+  "user" : {
+    "name" : "congress-edits",
+    "screen_name" : "congressedits",
+    "protected" : false,
+    "id_str" : "2612261960",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
+    "id" : 2612261960,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 83, 106 ],
-      "url" : "https:\/\/t.co\/SMqWz8P4e0",
-      "expanded_url" : "https:\/\/github.com\/ruebot\/gccaedits_data",
-      "display_url" : "github.com\/ruebot\/gccaedi\u2026"
+      "url" : "https:\/\/t.co\/D0u5I9XIeP",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=730931847&oldid=726270291",
+      "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "534094318664155137",
-  "text" : "RT @gccaedits: Periodically I will request my Twitter archive and deposit it here (https:\/\/t.co\/SMqWz8P4e0). It is public domain, so have a\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 68, 91 ],
-        "url" : "https:\/\/t.co\/SMqWz8P4e0",
-        "expanded_url" : "https:\/\/github.com\/ruebot\/gccaedits_data",
-        "display_url" : "github.com\/ruebot\/gccaedi\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "532922244557991936",
-    "text" : "Periodically I will request my Twitter archive and deposit it here (https:\/\/t.co\/SMqWz8P4e0). It is public domain, so have at it.",
-    "id" : 532922244557991936,
-    "created_at" : "2014-11-13 15:45:38 +0000",
-    "user" : {
-      "name" : "Governement of Canada Wikipedia edits",
-      "screen_name" : "gccaedits",
-      "protected" : false,
-      "id_str" : "2613454796",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486845019920142336\/D8tyW1L9_normal.png",
-      "id" : 2613454796,
-      "verified" : false
-    }
-  },
-  "id" : 534094318664155137,
-  "created_at" : "2014-11-16 21:23:03 +0000",
+  "id_str" : "756216434225733632",
+  "text" : "Dirksen Senate Office Building Wikipedia article edited anonymously from US Senate https:\/\/t.co\/D0u5I9XIeP",
+  "id" : 756216434225733632,
+  "created_at" : "2016-07-21 19:57:02 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -753,17 +681,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 88, 110 ],
-      "url" : "http:\/\/t.co\/dwLQqssYGI",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=633858047&oldid=633025846",
+      "indices" : [ 88, 111 ],
+      "url" : "https:\/\/t.co\/FdKQGeqRDs",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=730884385&oldid=678271277",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "533365970820399104",
-  "text" : "Love Games: Bad Girls Need Love Too Wikipedia article edited anonymously from US Senate http:\/\/t.co\/dwLQqssYGI",
-  "id" : 533365970820399104,
-  "created_at" : "2014-11-14 21:08:51 +0000",
+  "id_str" : "756152200968175616",
+  "text" : "Bridled white-eye Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/FdKQGeqRDs",
+  "id" : 756152200968175616,
+  "created_at" : "2016-07-21 15:41:47 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -780,17 +708,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 88, 110 ],
-      "url" : "http:\/\/t.co\/FynfU3BnGB",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=633835948&oldid=633835852",
+      "indices" : [ 86, 109 ],
+      "url" : "https:\/\/t.co\/0GVly6X81Z",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=730674656&oldid=730674529",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "533318659779731456",
-  "text" : "Federal Emergency Management Agency Wikipedia article edited anonymously from US Senate http:\/\/t.co\/FynfU3BnGB",
-  "id" : 533318659779731456,
-  "created_at" : "2014-11-14 18:00:51 +0000",
+  "id_str" : "755791819296899073",
+  "text" : "Sloan D. Gibson Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/0GVly6X81Z",
+  "id" : 755791819296899073,
+  "created_at" : "2016-07-20 15:49:46 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -807,17 +735,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 88, 110 ],
-      "url" : "http:\/\/t.co\/WZqQV0lorZ",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=633835852&oldid=633828351",
+      "indices" : [ 86, 109 ],
+      "url" : "https:\/\/t.co\/glEldKns1a",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=730674529&oldid=723073406",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "533318505710366720",
-  "text" : "Federal Emergency Management Agency Wikipedia article edited anonymously from US Senate http:\/\/t.co\/WZqQV0lorZ",
-  "id" : 533318505710366720,
-  "created_at" : "2014-11-14 18:00:15 +0000",
+  "id_str" : "755791585699360768",
+  "text" : "Sloan D. Gibson Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/glEldKns1a",
+  "id" : 755791585699360768,
+  "created_at" : "2016-07-20 15:48:50 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -834,17 +762,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 94, 116 ],
-      "url" : "http:\/\/t.co\/WIX7C9opKT",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=633697627&oldid=633695522",
+      "indices" : [ 82, 105 ],
+      "url" : "https:\/\/t.co\/Nys43ww8oR",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=730549744&oldid=723889873",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "532963084218806272",
-  "text" : "Party leaders of the United States Senate Wikipedia article edited anonymously from US Senate http:\/\/t.co\/WIX7C9opKT",
-  "id" : 532963084218806272,
-  "created_at" : "2014-11-13 18:27:55 +0000",
+  "id_str" : "755471848419319812",
+  "text" : "Drew Magary Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/Nys43ww8oR",
+  "id" : 755471848419319812,
+  "created_at" : "2016-07-19 18:38:19 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -861,17 +789,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 118, 140 ],
-      "url" : "http:\/\/t.co\/49UMCq64x6",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=633537159&oldid=633468839",
+      "indices" : [ 90, 113 ],
+      "url" : "https:\/\/t.co\/rmkXY8HHUr",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=730399385&oldid=729168509",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "532561534459715584",
-  "text" : "List of freshman class members of the 114th Uni Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/49UMCq64x6",
-  "id" : 532561534459715584,
-  "created_at" : "2014-11-12 15:52:18 +0000",
+  "id_str" : "755130885289017344",
+  "text" : "Zionsville, Indiana Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/rmkXY8HHUr",
+  "id" : 755130885289017344,
+  "created_at" : "2016-07-18 20:03:27 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -888,17 +816,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 86, 108 ],
-      "url" : "http:\/\/t.co\/TdvDpoAwKZ",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=633350753&oldid=633350673",
+      "indices" : [ 90, 113 ],
+      "url" : "https:\/\/t.co\/uTVQDZcta3",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=730363525&oldid=730363474",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "532074798914863104",
-  "text" : "Talk:Star Wars: The Force Awakens Wikipedia article edited anonymously from US Senate http:\/\/t.co\/TdvDpoAwKZ",
-  "id" : 532074798914863104,
-  "created_at" : "2014-11-11 07:38:12 +0000",
+  "id_str" : "755056781404102657",
+  "text" : "Prirazlomnoye field Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/uTVQDZcta3",
+  "id" : 755056781404102657,
+  "created_at" : "2016-07-18 15:08:59 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -915,17 +843,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 86, 108 ],
-      "url" : "http:\/\/t.co\/qbcRhc1qyV",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=633350673&oldid=633313281",
+      "indices" : [ 90, 113 ],
+      "url" : "https:\/\/t.co\/vdqIh11Q02",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=730363474&oldid=729766747",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "532074474166706177",
-  "text" : "Talk:Star Wars: The Force Awakens Wikipedia article edited anonymously from US Senate http:\/\/t.co\/qbcRhc1qyV",
-  "id" : 532074474166706177,
-  "created_at" : "2014-11-11 07:36:54 +0000",
+  "id_str" : "755056684666613760",
+  "text" : "Prirazlomnoye field Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/vdqIh11Q02",
+  "id" : 755056684666613760,
+  "created_at" : "2016-07-18 15:08:36 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -942,17 +870,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 103, 125 ],
-      "url" : "http:\/\/t.co\/DPlbSLjrgc",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=633278096&oldid=632522073",
+      "indices" : [ 83, 106 ],
+      "url" : "https:\/\/t.co\/10V3ne9UpT",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=729954618&oldid=729954424",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "531910921321340928",
-  "text" : "Jeff Miller (Florida politician) Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/DPlbSLjrgc",
-  "id" : 531910921321340928,
-  "created_at" : "2014-11-10 20:47:00 +0000",
+  "id_str" : "754026246988820480",
+  "text" : "Lou Barletta Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/10V3ne9UpT",
+  "id" : 754026246988820480,
+  "created_at" : "2016-07-15 18:54:01 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -969,17 +897,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 100, 122 ],
-      "url" : "http:\/\/t.co\/dxYdqroDwW",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=633268590&oldid=633216213",
+      "indices" : [ 83, 106 ],
+      "url" : "https:\/\/t.co\/wC7NkUPLVv",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=729954424&oldid=729787333",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "531891926157361152",
-  "text" : "Jos\u00E9 M. Hern\u00E1ndez (astronaut) Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/dxYdqroDwW",
-  "id" : 531891926157361152,
-  "created_at" : "2014-11-10 19:31:31 +0000",
+  "id_str" : "754025887557885952",
+  "text" : "Lou Barletta Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/wC7NkUPLVv",
+  "id" : 754025887557885952,
+  "created_at" : "2016-07-15 18:52:35 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -996,53 +924,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 86, 108 ],
-      "url" : "http:\/\/t.co\/LZ3uRvgq6n",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=633235030&oldid=632826394",
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/WHnOTkeJ4x",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=729954028&oldid=729953993",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "531823125176922112",
-  "text" : "Morgan Griffith Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/LZ3uRvgq6n",
-  "id" : 531823125176922112,
-  "created_at" : "2014-11-10 14:58:08 +0000",
-  "user" : {
-    "name" : "congress-edits",
-    "screen_name" : "congressedits",
-    "protected" : false,
-    "id_str" : "2612261960",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
-    "id" : 2612261960,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Plz Revisit",
-      "screen_name" : "plzrevisit",
-      "indices" : [ 0, 11 ],
-      "id_str" : "2836032643",
-      "id" : 2836032643
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 12, 35 ],
-      "url" : "https:\/\/t.co\/hOyywQg6Rj",
-      "expanded_url" : "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4f\/US_Capitol_west_side.JPG",
-      "display_url" : "upload.wikimedia.org\/wikipedia\/comm\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "531237596316590080",
-  "in_reply_to_user_id" : 2836032643,
-  "text" : "@plzrevisit https:\/\/t.co\/hOyywQg6Rj",
-  "id" : 531237596316590080,
-  "created_at" : "2014-11-09 00:11:27 +0000",
-  "in_reply_to_screen_name" : "plzrevisit",
-  "in_reply_to_user_id_str" : "2836032643",
+  "id_str" : "754025105802555393",
+  "text" : "Title IX Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/WHnOTkeJ4x",
+  "id" : 754025105802555393,
+  "created_at" : "2016-07-15 18:49:28 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -1059,17 +951,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 107, 129 ],
-      "url" : "http:\/\/t.co\/MFl5XYsmSi",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=632882812&oldid=632882755",
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/l0tpsIQenr",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=729953993&oldid=729813845",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "530849315091017728",
-  "text" : "Alabama's 5th congressional district Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/MFl5XYsmSi",
-  "id" : 530849315091017728,
-  "created_at" : "2014-11-07 22:28:34 +0000",
+  "id_str" : "754025008066887684",
+  "text" : "Title IX Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/l0tpsIQenr",
+  "id" : 754025008066887684,
+  "created_at" : "2016-07-15 18:49:05 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -1086,17 +978,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 107, 129 ],
-      "url" : "http:\/\/t.co\/hh3FM05LvO",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=632882755&oldid=619824213",
+      "indices" : [ 81, 104 ],
+      "url" : "https:\/\/t.co\/7mjJWrkMiO",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728936181&oldid=713776530",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "530849133074976768",
-  "text" : "Alabama's 5th congressional district Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/hh3FM05LvO",
-  "id" : 530849133074976768,
-  "created_at" : "2014-11-07 22:27:50 +0000",
+  "id_str" : "751473850257383424",
+  "text" : "Berkeley Springs High School Wikipedia article edited anonymously from US Senate https:\/\/t.co\/7mjJWrkMiO",
+  "id" : 751473850257383424,
+  "created_at" : "2016-07-08 17:51:42 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -1113,17 +1005,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 87, 109 ],
-      "url" : "http:\/\/t.co\/0Xuzg5lQle",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=632839988&oldid=632839724",
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/JvHhGDq5QD",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728816763&oldid=728812886",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "530751857765806083",
-  "text" : "The Catholic University of America Wikipedia article edited anonymously from US Senate http:\/\/t.co\/0Xuzg5lQle",
-  "id" : 530751857765806083,
-  "created_at" : "2014-11-07 16:01:18 +0000",
+  "id_str" : "751161583301263361",
+  "text" : "Ron Kind Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/JvHhGDq5QD",
+  "id" : 751161583301263361,
+  "created_at" : "2016-07-07 21:10:52 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -1140,17 +1032,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 87, 109 ],
-      "url" : "http:\/\/t.co\/UdYw2eCPiO",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=632839724&oldid=632214254",
+      "indices" : [ 79, 102 ],
+      "url" : "https:\/\/t.co\/JAWFwm6EUX",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728812886&oldid=727758246",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "530751318017597440",
-  "text" : "The Catholic University of America Wikipedia article edited anonymously from US Senate http:\/\/t.co\/UdYw2eCPiO",
-  "id" : 530751318017597440,
-  "created_at" : "2014-11-07 15:59:09 +0000",
+  "id_str" : "751153422964027393",
+  "text" : "Ron Kind Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/JAWFwm6EUX",
+  "id" : 751153422964027393,
+  "created_at" : "2016-07-07 20:38:26 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -1167,17 +1059,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 118, 140 ],
-      "url" : "http:\/\/t.co\/8Fj88yVliD",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=632832938&oldid=632802212",
+      "indices" : [ 103, 126 ],
+      "url" : "https:\/\/t.co\/Yjhd9IQi52",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728810737&oldid=728677908",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "530735500424773632",
-  "text" : "List of freshman class members of the 114th United States Congres Wikipedia article edited anonymously from US Senate http:\/\/t.co\/8Fj88yVliD",
-  "id" : 530735500424773632,
-  "created_at" : "2014-11-07 14:56:18 +0000",
+  "id_str" : "751149200939814912",
+  "text" : "Greater Atlanta Christian School Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/Yjhd9IQi52",
+  "id" : 751149200939814912,
+  "created_at" : "2016-07-07 20:21:39 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -1194,17 +1086,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 107, 129 ],
-      "url" : "http:\/\/t.co\/0L5PDkcPww",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=632706591&oldid=599431358",
+      "indices" : [ 83, 106 ],
+      "url" : "https:\/\/t.co\/8ujpCMOBov",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728785423&oldid=728785397",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "530392688357412864",
-  "text" : "No Taxpayer Funding for Abortion Act Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/0L5PDkcPww",
-  "id" : 530392688357412864,
-  "created_at" : "2014-11-06 16:14:05 +0000",
+  "id_str" : "751098914296696832",
+  "text" : "Simpson Thacher &amp; Bartlett Wikipedia article edited anonymously from US Senate https:\/\/t.co\/8ujpCMOBov",
+  "id" : 751098914296696832,
+  "created_at" : "2016-07-07 17:01:50 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -1221,17 +1113,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 66, 88 ],
-      "url" : "http:\/\/t.co\/qeAM8QuZZc",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=632588859&oldid=632313525",
+      "indices" : [ 83, 106 ],
+      "url" : "https:\/\/t.co\/sqP7YttNMx",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728785397&oldid=728669458",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "530068537918763008",
-  "text" : "Wayne Gretzky Wikipedia article edited anonymously from US Senate http:\/\/t.co\/qeAM8QuZZc",
-  "id" : 530068537918763008,
-  "created_at" : "2014-11-05 18:46:02 +0000",
+  "id_str" : "751098861721096192",
+  "text" : "Simpson Thacher &amp; Bartlett Wikipedia article edited anonymously from US Senate https:\/\/t.co\/sqP7YttNMx",
+  "id" : 751098861721096192,
+  "created_at" : "2016-07-07 17:01:38 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -1248,17 +1140,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 118, 140 ],
-      "url" : "http:\/\/t.co\/9aLH6Ca9Gr",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=632559941&oldid=632559678",
+      "indices" : [ 89, 112 ],
+      "url" : "https:\/\/t.co\/fZNJvyVdQj",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728763978&oldid=728763850",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "530004831570644992",
-  "text" : "List of freshman class members of the 114th Uni Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/9aLH6Ca9Gr",
-  "id" : 530004831570644992,
-  "created_at" : "2014-11-05 14:32:53 +0000",
+  "id_str" : "751051235143417856",
+  "text" : "Iowa State Cyclones men's basketball Wikipedia article edited anonymously from US Senate https:\/\/t.co\/fZNJvyVdQj",
+  "id" : 751051235143417856,
+  "created_at" : "2016-07-07 13:52:22 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -1275,17 +1167,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 118, 140 ],
-      "url" : "http:\/\/t.co\/PAjpNvgO7C",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=632559678&oldid=632559169",
+      "indices" : [ 89, 112 ],
+      "url" : "https:\/\/t.co\/q8yyaFwdWZ",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728763850&oldid=726752569",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "530004210578751488",
-  "text" : "List of freshman class members of the 114th Uni Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/PAjpNvgO7C",
-  "id" : 530004210578751488,
-  "created_at" : "2014-11-05 14:30:25 +0000",
+  "id_str" : "751050934235561985",
+  "text" : "Iowa State Cyclones men's basketball Wikipedia article edited anonymously from US Senate https:\/\/t.co\/q8yyaFwdWZ",
+  "id" : 751050934235561985,
+  "created_at" : "2016-07-07 13:51:11 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -1302,17 +1194,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 74, 96 ],
-      "url" : "http:\/\/t.co\/xhBz9lzpFq",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=632448286&oldid=610256418",
+      "indices" : [ 68, 91 ],
+      "url" : "https:\/\/t.co\/1SOgehmeax",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728761948&oldid=727261696",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "529699046500204544",
-  "text" : "32nd Cavalry Regiment Wikipedia article edited anonymously from US Senate http:\/\/t.co\/xhBz9lzpFq",
-  "id" : 529699046500204544,
-  "created_at" : "2014-11-04 18:17:48 +0000",
+  "id_str" : "751046696566685696",
+  "text" : "Allison Garrett Wikipedia article edited anonymously from US Senate https:\/\/t.co\/1SOgehmeax",
+  "id" : 751046696566685696,
+  "created_at" : "2016-07-07 13:34:20 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -1329,17 +1221,17 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 94, 116 ],
-      "url" : "http:\/\/t.co\/t3ZpxzC5QY",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=632445218&oldid=631569611",
+      "indices" : [ 83, 106 ],
+      "url" : "https:\/\/t.co\/hTf2JP6Vfd",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728669458&oldid=726770270",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "529692436100947968",
-  "text" : "Blackout (broadcasting) Wikipedia article edited anonymously from US House of Representatives http:\/\/t.co\/t3ZpxzC5QY",
-  "id" : 529692436100947968,
-  "created_at" : "2014-11-04 17:51:32 +0000",
+  "id_str" : "750799419163996161",
+  "text" : "Simpson Thacher &amp; Bartlett Wikipedia article edited anonymously from US Senate https:\/\/t.co\/hTf2JP6Vfd",
+  "id" : 750799419163996161,
+  "created_at" : "2016-07-06 21:11:45 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
@@ -1356,17 +1248,152 @@ Grailbird.data.tweets_2014_11 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 92, 114 ],
-      "url" : "http:\/\/t.co\/2LrfHFxKdv",
-      "expanded_url" : "http:\/\/en.wikipedia.org\/w\/index.php?diff=632296128&oldid=584893312",
+      "indices" : [ 66, 89 ],
+      "url" : "https:\/\/t.co\/cIkkrx7OHK",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728639112&oldid=721745754",
       "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
     } ]
   },
   "geo" : { },
-  "id_str" : "529308820187529219",
-  "text" : "Century High School (Hillsboro, Oregon) Wikipedia article edited anonymously from US Senate http:\/\/t.co\/2LrfHFxKdv",
-  "id" : 529308820187529219,
-  "created_at" : "2014-11-03 16:27:11 +0000",
+  "id_str" : "750738873249136640",
+  "text" : "Further (bus) Wikipedia article edited anonymously from US Senate https:\/\/t.co\/cIkkrx7OHK",
+  "id" : 750738873249136640,
+  "created_at" : "2016-07-06 17:11:10 +0000",
+  "user" : {
+    "name" : "congress-edits",
+    "screen_name" : "congressedits",
+    "protected" : false,
+    "id_str" : "2612261960",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
+    "id" : 2612261960,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 95, 118 ],
+      "url" : "https:\/\/t.co\/xeCXQJK7sz",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728627399&oldid=726842904",
+      "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "750714510542008320",
+  "text" : "Bill Foster (politician) Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/xeCXQJK7sz",
+  "id" : 750714510542008320,
+  "created_at" : "2016-07-06 15:34:21 +0000",
+  "user" : {
+    "name" : "congress-edits",
+    "screen_name" : "congressedits",
+    "protected" : false,
+    "id_str" : "2612261960",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
+    "id" : 2612261960,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 102, 125 ],
+      "url" : "https:\/\/t.co\/hlNkZn69oY",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728626675&oldid=706852483",
+      "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "750713084818391041",
+  "text" : "Animal Enterprise Terrorism Act Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/hlNkZn69oY",
+  "id" : 750713084818391041,
+  "created_at" : "2016-07-06 15:28:41 +0000",
+  "user" : {
+    "name" : "congress-edits",
+    "screen_name" : "congressedits",
+    "protected" : false,
+    "id_str" : "2612261960",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
+    "id" : 2612261960,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 104, 127 ],
+      "url" : "https:\/\/t.co\/tOcAESRVvP",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728623708&oldid=728608493",
+      "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "750707306900426757",
+  "text" : "Australian federal election, 2016 Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/tOcAESRVvP",
+  "id" : 750707306900426757,
+  "created_at" : "2016-07-06 15:05:44 +0000",
+  "user" : {
+    "name" : "congress-edits",
+    "screen_name" : "congressedits",
+    "protected" : false,
+    "id_str" : "2612261960",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
+    "id" : 2612261960,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 80, 103 ],
+      "url" : "https:\/\/t.co\/JZ4s9Ths6l",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728469292&oldid=727593372",
+      "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "750378029000617984",
+  "text" : "Jim Costa Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/JZ4s9Ths6l",
+  "id" : 750378029000617984,
+  "created_at" : "2016-07-05 17:17:18 +0000",
+  "user" : {
+    "name" : "congress-edits",
+    "screen_name" : "congressedits",
+    "protected" : false,
+    "id_str" : "2612261960",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486684605655703552\/cHJI5dOc_normal.png",
+    "id" : 2612261960,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"https:\/\/tools.wmflabs.org\/anon\/\" rel=\"nofollow\"\u003Eanon-wikipedia\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 93, 116 ],
+      "url" : "https:\/\/t.co\/UZbbSpYgjH",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/w\/index.php?diff=728438380&oldid=719663800",
+      "display_url" : "en.wikipedia.org\/w\/index.php?di\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "750312722030559232",
+  "text" : "Maine Republican Party Wikipedia article edited anonymously from US House of Representatives https:\/\/t.co\/UZbbSpYgjH",
+  "id" : 750312722030559232,
+  "created_at" : "2016-07-05 12:57:47 +0000",
   "user" : {
     "name" : "congress-edits",
     "screen_name" : "congressedits",
